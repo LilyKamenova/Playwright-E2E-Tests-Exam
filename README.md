@@ -17,13 +17,13 @@ Details of the requirements are available in [docs/requirements.md](docs/require
 Playwright-E2E-Tests-Exam/
 │
 ├── tests/
-│   └── e2e.test.js     # Main test file with Authentication, Navigation, and CRUD tests
+│   └── e2e.test.js     
 │
 ├── docs/
-│   └── requirements.md          # Original exam requirements
+│   └── requirements.md          
 │
-├── README.md                    # This file
-└── .gitignore                   # Ignoring node_modules, reports, and temporary files
+├── README.md                    
+└── .gitignore                   
 
 ⚠️ Important
 
