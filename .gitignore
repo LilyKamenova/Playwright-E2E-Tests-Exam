@@ -1,0 +1,18 @@
+
+# Node
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Playwright reports / artifacts
+playwright-report/
+test-results/
+videos/
+screenshots/
+
+# Local / editor
+.env
+.vscode/
+.DS_Store
+.idea/
+coverage/
