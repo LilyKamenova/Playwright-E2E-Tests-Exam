@@ -14,7 +14,7 @@ Details of the requirements are available in [docs/requirements.md](docs/require
 
 ## 📂 Project Structure
 ```plaintext
-playwright-exam-demo/
+Playwright-E2E-Tests-Exam/
 │
 ├── tests/
 │   └── booksApp.e2e.spec.js     # Main test file with Authentication, Navigation, and CRUD tests
