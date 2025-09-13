@@ -13,7 +13,7 @@ The following scenarios were automated:
 Details of the requirements are available in [docs/requirements.md](docs/requirements.md).
 
 ## 📂 Project Structure
-
+```plaintext
 Playwright-E2E-Tests-Exam/
 │
 ├── tests/
