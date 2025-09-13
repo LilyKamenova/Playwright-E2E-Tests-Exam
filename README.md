@@ -13,11 +13,11 @@ The following scenarios were automated:
 Details of the requirements are available in [docs/requirements.md](docs/requirements.md).
 
 ## 📂 Project Structure
-```plaintext
+
 Playwright-E2E-Tests-Exam/
 │
 ├── tests/
-│   └── booksApp.e2e.spec.js     # Main test file with Authentication, Navigation, and CRUD tests
+│   └── e2e.test.js     # Main test file with Authentication, Navigation, and CRUD tests
 │
 ├── docs/
 │   └── requirements.md          # Original exam requirements
